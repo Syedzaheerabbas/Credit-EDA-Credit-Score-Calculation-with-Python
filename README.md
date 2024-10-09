@@ -49,6 +49,6 @@
 - Analysis and Insights
 
 ## Colab Notebook
-- You can access the full Python analysis on Google Colab using the following link: [View_the_notebook](Credit_Analysis.ipynb)
+- You can access the full Python analysis on Google Colab using the following link: [View the notebook](Credit_Analysis.ipynb)
 
 
