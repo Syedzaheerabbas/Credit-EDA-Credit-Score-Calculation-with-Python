@@ -48,4 +48,7 @@
 - Hypothetical Credit Score Calculation
 - Analysis and Insights
 
+## Colab Notebook
+- You can access the full Python analysis on Google Colab using the following link: [View_the_notebook](Credit_Analysis.ipynb)
+
 
