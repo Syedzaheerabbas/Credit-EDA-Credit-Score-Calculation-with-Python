@@ -52,3 +52,8 @@
 - You can access the full Python analysis on Google Colab using the following link: [View the notebook](Credit_Analysis.ipynb)
 
 
+## PDF Report
+
+A detailed analysis report is available in the following PDF file: [View Report](Credit_analysis.pdf).
+
+
